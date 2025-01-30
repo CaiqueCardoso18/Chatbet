@@ -1,54 +1,38 @@
-<header>
+Descrição do Chatbet
+O Chatbet é o seu assistente pessoal de apostas esportivas, diretamente no WhatsApp! Combinando a inteligência artificial do GPT-4 com dados atualizados e análises especializadas, o Chatbet oferece respostas rápidas e precisas para todas as suas dúvidas sobre apostas.
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+O que o Chatbet faz?
+🎯 Previsões e Dicas: Receba análises e previsões para jogos de futebol, basquete, tênis e outros esportes.
 
-# GitHub Pages
+📊 Estatísticas em Tempo Real: Acesse dados atualizados sobre times, jogadores e desempenho histórico.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+💰 Estratégias de Apostas: Aprenda estratégias para maximizar seus ganhos e minimizar riscos.
 
-</header>
+⏰ Alertas Personalizados: Receba notificações sobre odds, resultados e eventos importantes.
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+❓ Tire Dúvidas: Pergunte sobre regras, mercados de apostas, promoções e muito mais.
 
-## Step 1: Enable GitHub Pages
+Por que usar o Chatbet?
+🤖 Inteligência Artificial Avançada: Respostas precisas e personalizadas, 24 horas por dia.
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+📱 Conveniência no WhatsApp: Use diretamente no seu app favorito, sem precisar instalar nada novo.
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+🏆 Focado em Apostas: Especializado em esportes e apostas, com informações relevantes e confiáveis.
 
-### :keyboard: Activity: Enable GitHub Pages
+Como começar?
+Adicione o número do Chatbet no WhatsApp.
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+Envie uma mensagem com sua dúvida ou comando.
 
-<footer>
+Receba respostas instantâneas e comece a apostar com mais confiança!
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Exemplos de Comandos
+"Quais são as odds para o jogo do Flamengo hoje?"
 
----
+"Me dê uma dica para a Premier League."
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+"Quais são as melhores estratégias para apostas acumuladas?"
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+"Notifique-me sobre os resultados da NBA."
 
-</footer>
+O Chatbet é a ferramenta perfeita para apostadores que buscam praticidade, informação de qualidade e uma vantagem extra em suas apostas. 🚀
