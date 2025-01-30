@@ -1,38 +1,33 @@
-Descrição do Chatbet
-O Chatbet é o seu assistente pessoal de apostas esportivas, diretamente no WhatsApp! Combinando a inteligência artificial do GPT-4 com dados atualizados e análises especializadas, o Chatbet oferece respostas rápidas e precisas para todas as suas dúvidas sobre apostas.
 
-O que o Chatbet faz?
-🎯 Previsões e Dicas: Receba análises e previsões para jogos de futebol, basquete, tênis e outros esportes.
 
-📊 Estatísticas em Tempo Real: Acesse dados atualizados sobre times, jogadores e desempenho histórico.
+<!--
+  <<< Author notes: Step 2 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
+  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
+-->
 
-💰 Estratégias de Apostas: Aprenda estratégias para maximizar seus ganhos e minimizar riscos.
+## Step 2: Configure your site
 
-⏰ Alertas Personalizados: Receba notificações sobre odds, resultados e eventos importantes.
+_You turned on GitHub Pages! :tada:_
 
-❓ Tire Dúvidas: Pergunte sobre regras, mercados de apostas, promoções e muito mais.
+We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
 
-Por que usar o Chatbet?
-🤖 Inteligência Artificial Avançada: Respostas precisas e personalizadas, 24 horas por dia.
+Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
 
-📱 Conveniência no WhatsApp: Use diretamente no seu app favorito, sem precisar instalar nada novo.
+We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
 
-🏆 Focado em Apostas: Especializado em esportes e apostas, com informações relevantes e confiáveis.
+### :keyboard: Activity: Configure your site
 
-Como começar?
-Adicione o número do Chatbet no WhatsApp.
+1. Browse to the `_config.yml` file in the `my-pages` branch.
+1. In the upper right corner, open the file editor.
+1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
+   ```yml
+   theme: minima
+   ```
+1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
+1. Commit your changes.
+1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
+1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-Envie uma mensagem com sua dúvida ou comando.
 
-Receba respostas instantâneas e comece a apostar com mais confiança!
-
-Exemplos de Comandos
-"Quais são as odds para o jogo do Flamengo hoje?"
-
-"Me dê uma dica para a Premier League."
-
-"Quais são as melhores estratégias para apostas acumuladas?"
-
-"Notifique-me sobre os resultados da NBA."
-
-O Chatbet é a ferramenta perfeita para apostadores que buscam praticidade, informação de qualidade e uma vantagem extra em suas apostas. 🚀
