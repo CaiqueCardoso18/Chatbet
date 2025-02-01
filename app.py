@@ -5,7 +5,7 @@ import telegram
 app = Flask(__name__)
 
 # Pegando o token do Telegram das variáveis de ambiente
-TOKEN = os.getenv("8063258730:AAFdmf4m-dwhhy5N1GdC6EjMG9IQi-DO168")
+TOKEN = os.getenv("TOKEN")
 bot = telegram.Bot(token=TOKEN)
 
 @app.route("/webhook", methods=["POST"])
