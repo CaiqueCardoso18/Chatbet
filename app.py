@@ -1,13 +1,11 @@
 from flask import Flask, request
+import os
 import telegram
-from pyngrok import ngrok
-public_url = ngrok.connect(5000).public_url
-print(f"Webhook URL: {public_url}/webhook")
 
 app = Flask(__name__)
 
-# Token do seu bot
-TOKEN = "8063258730:AAFdmf4m-dwhhy5N1GdC6EjMG9IQi-DO168"
+# Pegando o token do Telegram das variáveis de ambiente
+TOKEN = os.getenv("8063258730:AAFdmf4m-dwhhy5N1GdC6EjMG9IQi-DO168")
 bot = telegram.Bot(token=TOKEN)
 
 @app.route("/webhook", methods=["POST"])
@@ -22,4 +20,4 @@ def webhook():
     return "OK", 200
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=True)
